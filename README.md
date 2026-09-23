@@ -120,7 +120,7 @@ Learning:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/gaurav_kumsr_62/">
+<a href="https://leetcode.com/u/gaurav_kumar_62/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
 </a>
 
